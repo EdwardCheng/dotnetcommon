@@ -1,2 +1,2 @@
 # dotnetcommon
-common util or helper classs
+common utils or helper classes
